@@ -1,0 +1,4 @@
+mklog 
+-buat data table
+-buat edit
+-buat hapus

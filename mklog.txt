@@ -1,6 +1,6 @@
 mklog 
 -buat data table
--buat edit
 -buat hapus
 -buat detail
 -kolaborasi dengan dani
+-buat print

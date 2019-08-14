@@ -2,6 +2,9 @@ rencana konten
 
 -javascript
  a.es6
+ b.angular
+ c.react
 -interview
+ a.laravel
 -struktur
 -vlog

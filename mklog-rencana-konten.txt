@@ -1,5 +1,6 @@
 rencana konten
 
 -javascript
+ a.es6
 -interview
 -vlog

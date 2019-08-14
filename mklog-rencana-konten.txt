@@ -5,6 +5,8 @@ rencana konten
  b.angular
  c.react
 -interview
- a.laravel
+ a.view
+ b.reaction
 -struktur
 -vlog
+-laravel

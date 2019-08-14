@@ -3,5 +3,7 @@ rencana konten
 -javascript
  a.es6
 -interview
+ a.view
 -struktur
 -vlog
+-laravel

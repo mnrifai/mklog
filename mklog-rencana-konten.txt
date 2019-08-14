@@ -2,6 +2,8 @@ rencana konten
 
 -javascript
  a.es6
+ b.angular
+ c.react
 -interview
  a.view
  b.reaction
